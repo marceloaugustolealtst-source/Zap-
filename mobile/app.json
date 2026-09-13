@@ -1,0 +1,3 @@
+{
+  "expo":{"name":"Viet Chat","slug":"viet-chat","version":"1.0.0","orientation":"portrait","scheme":"vietchat","userInterfaceStyle":"dark","plugins":["expo-router"],"android":{"package":"com.vietchat.app"},"ios":{"bundleIdentifier":"com.vietchat.app"}}
+}
